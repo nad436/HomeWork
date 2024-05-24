@@ -1,4 +1,4 @@
-﻿int[] grades = new int[5];
+﻿/*int[] grades = new int[5];
 grades[0] = Convert.ToInt32(Console.ReadLine());
 grades[1] = Convert.ToInt32(Console.ReadLine());
 grades[2] = Convert.ToInt32(Console.ReadLine());
@@ -15,3 +15,17 @@ else
 {
     Console.WriteLine("Next time buddy");
 }
+*/
+
+/*int number = Convert.ToInt32(Console.ReadLine());
+
+if (number % 2 == 0)
+{
+    number = number * 3;
+}
+else
+{
+    number = number / 2;
+}
+Console.WriteLine($"Your number became: {number}");*/
+
